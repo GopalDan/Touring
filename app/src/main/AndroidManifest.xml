@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gopal.touring">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".HowToReachActivity"
+            android:theme="@style/CustomTheme"
+            android:parentActivityName=".MainActivity"
+            android:label="HowToReach"/>
+        <activity android:name=".HotelActivity"
+            android:parentActivityName=".MainActivity"
+            android:label="HotelActivity"
+            android:theme="@style/CustomTheme"/>
+        <activity android:name=".DetailsActivity"
+            android:parentActivityName=".HotelActivity"
+            android:theme="@style/CustomTheme"
+            android:label=""/>
+        <activity android:name=".ShoppingMallActivity"
+            android:theme="@style/SecondaryTheme"
+            android:parentActivityName=".MainActivity"
+            android:label="ShoppingActivity"/>
+        <activity android:name=".TouringActivity"
+            android:parentActivityName=".MainActivity"
+            android:label="TouringActivity"
+            android:theme="@style/CustomTheme"/>
+    </application>
+</manifest>

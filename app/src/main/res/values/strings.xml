@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Touring</string>
+    <string name="city_overview_header">City Overview</string>
+    <string name="city_overview_description">
+        Kolkata also known as Calcutta  is the capital of the Indian state of West Bengal.It is  Located on the east bank of the
+        Hooghly River approximately 75 kilometres (47 mi) west of the border with Bangladesh.It is the city where culture
+        flows in every household.The city is widely regarded as the "cultural capital" of India, and is also nicknamed the "City of Joy".
+        Travellers from all across the globe visit here to witness and experience the golden history,culture and glory of the city.Being an important metro
+        city, reaching Kolkata from anywhere in the world or country is not an issue as the city offers excellent flight,rail
+        and road connectivity."\n"
+        The word Kolkata derives from the Bengali term Kolikata (Bengali: কলিকাতা), the name of one of three villages that predated
+        the arrival of the British, in the area where the city eventually was to be established, the other two villages were
+        Sutanuti and Govindapur.
+    </string>
+    <string name="language_header">Languages</string>
+    <string name="languages">Bengali, Hindi, English</string>
+    <string name="visit_time_header">Best Time To Visit</string>
+    <string name="visit_time">October - February</string>
+    <string name="popular_festive_header">Popular Festives</string>
+    <string name="popular_festive">Durga Puja, Kali Puja</string>
+    <string name="travel_option">Travel Options</string>
+    <string name="by_air_header">By Air</string>
+    <string name="by_train_header">By Train</string>
+    <string name="by_self_drive_header">By Self Drive/Bus</string>
+
+    <string name="summary">
+        Being an important metrocity, reaching Kolkata from anywhere in the world or country is not an issue as the city offers excellent flight,rail
+        and road connectivity.
+    </string>
+
+    <!-- Strings for How to Reach Activity-->
+    <string name="by_air">
+        Netaji Subhash Chandra Bose International Airport is situated at Dumdum, which is about 17 kilometres away from the heart
+        of the city. This airport has good connectivity across major cities in India and abroad. From the airport you can take a
+        taxi or a bus to your final destination. Volvo buses ply on multiple routes so just confirm at the airport the bus you
+        should be taking for your address.
+    </string>
+    <string name="by_train">
+       Kolkata has an efficient network of railways and is well linked to cities across the country. Superfast trains such as
+        Rajdhani Express and Shatabdi Express connect Kolkata from Delhi and nearby places. There are two major railway stations
+        in the city – one is located in Howrah and the other at Sealdah. 
+    </string>
+    <string name="by_road_or_self_drive">
+        Kolkata is connected with most of the Indian cities by road. The National Highway number 2 and 6 connect the city with other
+        cities and states in India. Kolkata has a broad network of government and private buses. The Calcutta State Transport
+        Corporation (CSTC), Calcutta Tramways Company (CTC) and West Bengal Surface Transport Corporation (WBSTC) run regulars bus
+        service in the city. The Esplanade Terminus in the heart of the city is the main bus terminus.
+    </string>
+
+    <!-- Strings for Hotels Information -->
+    <string name="info_hotel_itc">
+        A 2-minute walk from the nearest bus stop , this upscale hotel surrounded by gardens is 10 km from the Victoria Memorial
+        and 8 km from the Indian Museum."\n"
+        The sophisticated rooms and suites come with free Wi-Fi, flat-screen TVs and desks, plus tea and coffeemakers. Suites
+        feature garden and water views, and come with separate living areas. There\'s a ladies-only floor. Room service is available."\n"
+        Freebies include parking and a breakfast buffet. There are 6 restaurants, 1 of which serves Asian cuisine, as well as a
+        bakery. Other amenities include a spa with a gym and a beauty salon, an outdoor pool, a business centre and event space.
+    </string>
+    <string name="info_hotel_gateway">
+        This upscale contemporary hotel is 3.8 km from Ballygunge Junction railway station and Science City, a sprawling science and
+        technology complex with a convention centre and green areas."\n"
+        Modern rooms and suites offer free Wi-Fi, flat-screen TVs, minibars and laptop-sized safes. Upgraded rooms add city views, while
+        suites have separate living areas and tea and coffee making facilities. Room service is available 24/7."\n"
+        Amenities include a stylish bar, a pastry shop and an airy restaurant serving international fare. There\'s also an exercise
+        room and a rooftop pool overlooking the city. Parking is complimentary.
+    </string>
+    <string name="info_hotel_oberoi">
+        Housed in a palatial villa dating from the 1880’s, this elegant hotel is an 11-minute walk from the Hooghly River and 3 km
+        from the Victoria Memorial."\n"
+        Featuring colonial-style prints and wood furniture, the posh rooms offer flat-screen TVs, minibars, and tea and
+        coffeemaking equipment. Upgraded rooms add balconies. The suites include living areas, and some have 4-poster beds,
+        writing desks and garden views. Room service is available."\n"
+        Breakfast and parking are free. There’s a chic French-style bistro, a Thai restaurant and a casual bar, as well as a spa, a
+        fitness centre and an outdoor pool fringed by palm trees.
+    </string>
+    <string name="info_hotel_novotel">
+        In Kolkata’s Newtown suburb, this polished hotel is across the street from Axis Mall, a 2-minute walk from a metro station
+        and a 15-minute walk from Rabindra Tirtha cultural centre."\n"
+        Upmarket rooms, suites and apartments come with Wi-Fi, flat-screen TVs, and tea and coffeemaking facilities; apartments add
+        kitchenettes. Some quarters also offer city views. Room service is available 24/7, and kids 15 and under stay free."\n"
+        There are 3 refined restaurants and 2 bars. Other amenities include an outdoor pool, a spa and a 24-hour fitness room.
+    </string>
+    <string name="info_hotel_taj_bengal">
+        This upmarket hotel in downtown area is a 3-minute walk from the nearest bus stop, and half a kilometer from the Alipore
+        Zoological Gardens, India\'s oldest zoo."\n"
+        Luxe rooms offer free Wi-Fi, and tea and coffeemaking facilities, as well as minibars, safes and yoga mats. Upgraded rooms add
+        butler service, and access to a lounge with complimentary breakfast and drinks. Suites add separate living areas, and
+        upgraded suites include terraces and original artwork."\n"
+        Breakfast and parking are provided at no extra cost. Dining options include Mediterranean, Indian and Chinese eateries.
+        There\'s also a bar, a spa and an outdoor pool.
+    </string>
+
+    <!-- Strings for Shopping Mall location -->
+    <string name="city_center_1_mall_location">3rd Avenue, Block DC, Sector 1, Salt Lake, Kolkata</string>
+    <string name="axis_mall_location">1 Kolkata Por Gopalpur Rajarhat Road, Kolkata 700136</string>
+    <string name="acropolis_mall_location">1858/1, Rajdanga Main Road, Sector 1, East Kolkata Township, Kolkata</string>
+    <string name="city_center_2_mall_location">Biswa Bangla Sarani, Action Area II, Newtown, Kolkata</string>
+    <string name="south_city_mall_location"> Prince Anwar Shah Rd, South City Complex, Jadavpur, Kolkata</string>
+
+    <!-- Strings for Touring Places -->
+    <string name="nicco_park_info">
+        Nicco Park is an amusement park in India, located in Salt Lake City, Kolkata. The park was created to attract tourists to the
+        state by providing family-friendly recreation as well as educative entertainment."\n"
+
+      <b> <font fgcolor='#212121'> "\n"Rides and attractions"\n"  </font></b>
+        "\n"Nicco Park has approximately thirty-five rides that include the Toy Train, Tilt-a-Whirl, Striking Cars, Paddle Boat,
+        Water Chute, Water Coaster, Flying Saucer, Pirate Ship, River Caves, Cyclone and Moonraker.The Giant Cyclone, added in
+        2003, is among Asia\'s largest. The ride 750 meters in length, has seven drops and goes as high as 55 feet."\n"
+        Attractions such as the parks cable cars and Eiffel Tower provide panoramic views of the park from above. Natural attractions
+        include a rose garden and a forty feet high waterfall."\n"
+        The park has also constructed a water park, Wet-O-Wild, inside the amusement park. There are also a rain dance performances.
+        The park also has a 4-D movie theater.It has also introduced a new ride called Sky Diver which has been attracting visitors for the past two years now
+    </string>
+    <string name="science_city_info">
+        It is a major attraction for the residents of Kolkata as well as for the people visiting Kolkata. It is one of the finest and the largest science museums in the world and provides a fun way of learning science. Under the National Council of Science Museums, the Science City in Kolkata is the largest science centre in the entire Indian Subcontinent.
+        It is a governmental organisation under the Ministry of Culture and the main motto of the Science City was the popularisation of science. It is located at the crossing of the EM Bypass and the JBS Halder Avenue in Kolkata. The science city is a perfect blend of education with fun. There is a special section dedicated to the aquatic world wherein you can learn every minute
+        detail about the various fishes and insects in the aquatic world. Some of the most exotic fishes can be seen in these aquariums. All in all, science city is going to offer you a phenomenal experience
+        with your friends and family and totally make your holiday worth it. "\n"
+        "\n"The ground floor of the science city comprises of some optical illusions which are very interesting to look at. It is always so much fun to watch yourself taking a variety of shapes in front of the optical mirrors. The city is located on the crossing of Eastern Bypass and Park Circus at Kolkata and should be a sure shot stop on your trip to Kolkata. It is a favourite amongst kids as well as adults. Tornado, the energy ball, ocean waves and quicksand are a must watch. Time Machine is a common favourite amongst all the visitors. It gives one the opportunity to travel to outer space from where you can travel back in time and enter the age of dinosaurs by being a part of the artificial Jurassic Park. You can try the ropeway as well and get a birds eye view of the city."\n"
+
+        <b> <font fgcolor='#212121'> "\n" Science City Timings and Entry Fee"\n"  </font></b>
+        "\n"The Science City in Kolkata remains open from 9:00 AM to 9:00 PM on all days of the week. (Except holiday)"\n"
+        Entry fee per person- INR 50"\n"
+        Space theatre- INR 60"\n"
+        Evolution Park- INR 10"\n"
+        3D theatre- INR 30 "\n"
+        Time Machine- INR 20 "\n"
+        Road Train- INR 15 "\n"
+        Cable Car- INR 30 "\n"
+        Mono Cycle- INR 15 "\n"
+        Caterpillar- INR 10 "\n"
+        Gravity Coaster- INR 30 "\n"
+    </string>
+    <string name="alipoor_zoo_info">
+        The Alipore Zoo, also known as the Calcutta Zoo or the Zoological Garden of Alipore, is the oldest zoological park to have been established in India and is a major tourist attraction in Kolkata, West Bengal. The Alipore Zoo attracts tourists from all across the nation who visit the zoo to explore the wildlife that happily thrives here and to enjoy themselves. Spread over an area of 46.5 acres, the zoo has been operating since 1876, when it was first opened to the general public."\n"
+        "\n"The Alipore zoo is home to a variety of exotic animals like Royal Bengal Tiger, Indian Elephant, the Great Indian One-horned Rhinoceros, White Tiger, Grant\'s Zebra, Antelope, Deer and more. At the same time, the zoo is also the home to various attractive birds like Macaws and Lorikeet, colourful and flamboyant birds like Swinhoe\'s Pheasant, Lady Amherst\'s Pheasant and Golden Pheasant, large birds like Ostrich, Emu, Hornbills and more. During the winter season, the Alipore Zoo also becomes the dwelling place of a few migratory birds like the Sarus Crane."\n"
+
+         <b> <font fgcolor='#212121'> "\n"Alipore Zoo Timings "\n"  </font></b>
+        "\n"The timings and schedule of the Alipore Zoo are as follows: "\n"
+        1. Zoo timings: 9:00 AM to 5:00 PM "\n"
+        2. Aquarium timings: 10:30 AM to 5:00 PM "\n"
+        3. Ticket counter timings: 9:00 AM - 4:30 PM "\n"
+        4. Weekly off: Thursdays "\n"
+        If a Thursday falls on a public holiday, the zoo stays open for that day and then is closed on the next working day. "\n"
+        During the period of 15 December to 31 January, the zoo is open for all seven days. "\n"
+
+         <b> <font fgcolor='#212121'> "\n" Alipore Zoo Ticket Price "\n"  </font></b>
+        "\n"The fee structure to visit the Alipore Zoo is as follows: "\n"
+        1. For visitors above five years of age: "\n"
+        i) Days other than Saturdays, Sundays and government holidays: INR 25 "\n"
+        ii) On Saturdays, Sundays and government holidays: INR 30 "\n"
+        2. For visitors below five years of age: INR 10 "\n"
+    </string>
+    <string name="aquatica_info">
+        Sprawling over an area of 8 acres, Aquatica is the largest water park in the northern and eastern part of India. This theme park is an ideal escape during the hot and humid summer days. The large area of the park can accommodate as many as 5000 people at a time.
+        "\n"Flocked mainly by young people, the artificial waves, tornadoes and dance floors are the prime attractions of Aquatica. The artificial river flowing through the park is popular for swimming. Besides, there are several adventure water rides.
+        "\n"Aqua Wave Pool is the main attraction of the water park. This is a pool with artificial waves where the water is cleared every hour to keep the pool clean. There is a car riding area along the pool especially designed for kids.
+        "\n"Cyclone Pool is another major attraction of Aquatica. It is more popularly known as Tornado.  Sweeping through the tunnel, the ride will lead one to a free fall into a large pool from a height. The Aqua Dance is a mini dance floor on a pool.
+    </string>
+    <string name="victoria_memorial_info">
+        Another symbol of the British Raj in India, the Victoria Memorial is located in the heart of Kolkata, which was formerly known as Calcutta, in West Bengal, India. This white marbled beauty, which can rightly be called the epitome of grace and elegance, was built in memory of Queen Victoria to celebrate her 25 years of rule over India. Lord Curzon, the then Viceroy of India, undertook the task of putting up this magnificent monument for people to see and appreciate, and today the Victoria Memorial is counted as one of the best places to visit, not only in Kolkata but the entire country.
+        "\n"The intricate memorial not only bears testimony to the British rule in India but also stands out as an example of refined and excellent architecture in the Indo-Saracenic revivalist style that existed in that era. Considered to the pride of Kolkata, the Victoria Memorial boasts of an assortment of paintings that date back to the British period and some other displays. The Royal Gallery houses the masterpieces of Jansen and Winter Halter, which skillfully depict the life of Prince Albert, while the Calcutta Gallery is revered for being the first city gallery of the country. The lush green and well-maintained garden, which spreads over 64 acres, has numerous statues and sculptures in it. The sixteen-foot tall bronze statue of victory, mounted on ball bearings at the top of the memorial, serves to heighten the overall appeal and grandeur of the entire complex.
+       "\n"The site looks breathtaking and marvellous, especially at night, when it is illuminated. The Son-et-Lumiere shows that take place in the evening are an added delight, and a must watch for all people who choose to visit this place. All in all, the place is a must visit for people to wish to relive the essence of the Victorian era in the modern day world. "\n"
+
+        <b> <font fgcolor='#212121'> "\n"Victoria Memorial Timings and Entry Ticket "\n""\n"  </font></b>
+       1. Victoria Memorial Gallery: "\n"
+       The gallery is open from 10:00 AM to 5:00 PM from Tuesdays to Sundays. "\n"
+       The entry fee per head for Indians is INR 20, while for foreigners, it is INR 200. School children up to class XII in uniform and army personnel do not have to pay any entry fee. "\n"
+       2. The Gardens: "\n"
+       The gardens are open on all days from 5:30 AM to 6:15 PM. "\n"
+        The entry price per head is just INR 10, while yearly ticket costs INR 1,000 for senior citizens above 60, and INR 2,000 for others."\n"
+        Note that garden ticket does not entitle entry into the museum.
+    </string>
+
+    <!-- String for alert dialog -->
+    <string name="exit_title">Do you want to exit ?</string>
+    <string name="positive_exit_action">Exit</string>
+    <string name="negative_exit_action"> Stay</string>
+    <string name="nicco_park">Nicco Park</string>
+    <string name="science_city">Science City</string>
+    <string name="alipoor_zoo">Alipoor Zoo</string>
+    <string name="aquatica">Aquatica</string>
+    <string name="victoria_memorial">Victoria Memorial</string>
+    <string name="itc_sonar">ITC Sonar</string>
+    <string name="the_gateway">The Gateway</string>
+    <string name="oberoi_grand">The Oberoi Grand</string>
+    <string name="novotel">Novotel</string>
+    <string name="taj_bengal">Taj Bengal</string>
+    <string name="hotel_details">Hotel Details</string>
+    <string name="salt_lake_city_centre">Salt Lake City Centre</string>
+    <string name="axis_mall">Axis mall</string>
+    <string name="acropolis_mall">Acropolis Mall</string>
+    <string name="city_center_2">City centre 2</string>
+    <string name="south_city_mall">South City Mall</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="over_view">overview</string>
+</resources>
